@@ -1,0 +1,25 @@
+{
+  "name": "core-node-framework",
+  "version": "1.0.0",
+  "description": "Node.js Web Application Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/core-framework/core-node-framework.git"
+  },
+  "keywords": [
+    "node",
+    "framework",
+    "web",
+    "application"
+  ],
+  "author": "Shalom Sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/core-framework/core-node-framework/issues"
+  },
+  "homepage": "https://github.com/core-framework/core-node-framework#readme"
+}
